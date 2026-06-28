@@ -8,7 +8,7 @@ A single player paddle and ball survival game built in C++ with SFML where the b
 
 The ball drops from the top of the screen and bounces off the left wall, right wall and ceiling automatically. Your job is to keep it off the floor using a paddle you control left and right at the bottom of the screen. Every successful hit adds to your score; missing one costs a life. Lose all 3 lives and it's game over then press Enter to try again.
 
-![Gameplay](screenshots/1b .png)
+![Gameplay](screenshots/1b.png)
 
 It's a deliberately small, focused build with full game loop, physics and state handling in under 150 lines across three files.
 
